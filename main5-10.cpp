@@ -9,7 +9,7 @@ int main() {
 	int n = 0;
 	bool sym_matrix = true;
 
-	cout << "(The matrix is square)" << endl;
+	cout << "Square matrix only" << endl;
 	cout << "Enter the number of lines and columns: ";
 	cin >> n;
 
