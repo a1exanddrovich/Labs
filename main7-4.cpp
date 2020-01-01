@@ -40,7 +40,7 @@ int main() {
 		cin >> arr[i].type;
 		cout << "Destination: ";
 		cin >> arr[i].destination;
-		cout << "Poisoning time: ";
+		cout << "Departure time: ";
 		cin >> arr[i].departure_time;
 		cout << "Arrival time: ";
 		cin >> arr[i].arrival_time;
